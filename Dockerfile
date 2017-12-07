@@ -7,7 +7,7 @@ MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 
 ENV TOOL_NAME=transformation
 ENV TOOL_VERSION=2.2.2
-ENV CONTAINER_VERSION=1.0
+ENV CONTAINER_VERSION=1.1
 ENV CONTAINER_GITHUB=https://github.com/phnmnl/container-transformation
 
 LABEL version="${CONTAINER_VERSION}"
