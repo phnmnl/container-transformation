@@ -3,7 +3,7 @@
 ![Logo](w4m.png)
 
 # W4M Transformation
-Version: 2.2.0
+Version: 2.2.2
 
 ## Short description
 
