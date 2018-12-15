@@ -77,4 +77,4 @@ docker run docker-registry.phenomenal-h2020.eu/phnmnl/transformation ...
 Use AMA style publications as a list (you can export AMA from PubMed, on the Formats: Citation link when looking at the entry).
 -->
 
- - Veselkov et al (2011). Optimized Preprocessing of Ultra-Performance Liquid Chromatography/Mass Spectrometry Urinary Metabolic Profiles for Improved Information Recovery. Analytical Chemistry, 83:5864-5872. <http://dx.doi.org/10.1021/ac201065j>
+ - Veselkov et al (2011). Optimized Preprocessing of Ultra-Performance Liquid Chromatography/Mass Spectrometry Urinary Metabolic Profiles for Improved Information Recovery. Analytical Chemistry, 83:5864-5872. <https://doi.org/10.1021/ac201065j>
